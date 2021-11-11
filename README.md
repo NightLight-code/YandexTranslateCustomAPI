@@ -7,7 +7,7 @@
 
 ## DOCS:
 
-1. Download api files o your computer
+1. Download api files to your computer
 
 2. import api, call api.translate function with arguments
 
