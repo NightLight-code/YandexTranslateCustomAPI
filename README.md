@@ -14,12 +14,12 @@
 ## Example:
 
 
-
+```
 import api
 
 
 print( api.translate("How are you?", "en", "ru") )
-
+```
 
 
 ## Translate function arguments:
