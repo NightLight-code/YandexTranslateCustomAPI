@@ -11,7 +11,7 @@
 
 2. import api, call api.translate function with arguments
 
-Example:
+## Example:
 
 
 
@@ -22,7 +22,7 @@ print( api.translate("How are you?", "en", "ru") )
 
 
 
-translate function arguments:
+## Translate function arguments:
 
 First - text (text to translate)
 
